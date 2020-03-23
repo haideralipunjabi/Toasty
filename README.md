@@ -188,4 +188,8 @@ Want to be here? Open an `issue` or make a `pull request`.
                 <td><a href="https://play.google.com/store/apps/details?id=com.dizdarevic.kadcemibus"><img src="https://lh3.googleusercontent.com/LFUKgzu8S1V8TSLg3aiFoA7dkfUYmQg6s8lVUSPJYEkv6564UKjaUKhYcqvFMyDbSas=w64"/></a></td>
             <td><a href="https://play.google.com/store/apps/details?id=com.dizdarevic.kadcemibus">Kad ce mi bus - red voznje</a></td>
     </tr>
+    <tr>
+                <td><a href="https://play.google.com/store/apps/details?id=org.hackesta.tweet2pic"><img src="https://lh3.googleusercontent.com/tQxdT05J-suWRl5UjomO43wiMlLGnut9qTQUEAZPDBALW5LVnqLMHu4yqxumNMQDdA=w64"/></a></td>
+            <td><a href="https://play.google.com/store/apps/details?id=org.hackesta.tweet2pic">Tweet2Pic</a></td>
+    </tr>
 </table>
